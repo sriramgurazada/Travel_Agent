@@ -15,13 +15,7 @@ This is a fully offline, AI-powered Travel Planner built using **LLaMA 3 via Oll
 
 ---
 
-## 🖥️ Demo Screenshot
 
-![Travel Planner Demo](demo_screenshot.png)
-
-> *(Add a screenshot here of your app running locally)*
-
----
 
 ## 🧰 Tech Stack
 
